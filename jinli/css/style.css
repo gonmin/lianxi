@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.resume {
+	width: 802px;
+	margin: 15px auto 0;
+	box-shadow: 0 0 2px rgba(0,0,0,0.1);
+	border: 1px solid #dadada;
+}
+.resume-box {
+	width: 720px;
+	margin: 0 auto;
+}
+.header {
+	margin-top: 20px;
+}
+.header .name {
+	font-size: 34px;
+	font-weight: bold;
+	color: #374760;
+}
